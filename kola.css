@@ -1,0 +1,92 @@
+body {
+margin: 0;
+padding: 0;
+width: 100;
+height: 100;
+
+}
+
+h1 {
+    text-align: center;
+    color: #1F1D8C;
+
+}
+
+.container{
+    height: 400px;
+    width: 100%;
+}
+
+.about {
+    width: 45%;
+    padding: 20px;
+    height: 400px;
+    background-color: blanchedalmond;
+    color: #1F1D8C;
+    float: left;
+
+}
+
+.picture{
+    width: 50%;
+    height: 400px;
+    background-image: url("images/Kola1\ \(1\).jpg");
+    float: right;
+    background-size: cover;
+    margin: auto;
+}
+
+.quote{
+    width: 75%;
+    margin: 50px auto;
+    height: 50px;
+    background-color: #8A1A3C;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.container2{
+width: 20%;
+margin: auto;
+
+}
+
+.signin{
+    background-color: blue;
+    width: 40%;
+    border-radius: 10%;
+    height: 25px;
+    text-align: center;
+    padding: 3%;
+    color: #F1F1F1;
+}
+
+.input1{
+width: 100%;
+background-color: #FAFAFA;
+height: 30px;
+border-radius: 2px;
+border: 2px solid #F1F1F1;
+
+}
+
+.input2{
+
+    width: 100%;
+    background-color: #FAFAFA;
+height: 30px;
+border-radius: 2px;
+border: 2px solid #F1F1F1;
+}
+
+.a1{
+    color: #000;
+    text-decoration-line: none;
+    display: inline;
+}
+
+.a2{
+    color: #000;
+    text-decoration-line: none;
+}
